@@ -10,7 +10,7 @@ import urllib2
 
 base = "BLMOII"
 berapa = int(raw_input("[+] Butuh Berapa Boss?: "))
-if berapa > 5:
+if berapa > 99:
 	print "[+] MARUK GOBLOK!"
 	sys.exit()
 def gene(size=4, chars=string.ascii_uppercase + string.digits):
