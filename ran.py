@@ -8,7 +8,7 @@ import time
 import sys
 import urllib2
 
-base = "BLMOIV"
+base = "BLMOII"
 berapa = int(raw_input("[+] Butuh Berapa Boss?: "))
 if berapa > 5:
 	print "[+] MARUK GOBLOK!"
